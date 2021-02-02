@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <dimen name="btn_size">68dp</dimen>
+  <dimen name="iconfont_size">42sp</dimen>
+</resources>
