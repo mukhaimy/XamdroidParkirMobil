@@ -175,7 +175,7 @@ namespace XdParkirMobil
                 {
                     string distance1 = btConn.SendMessageX(_mutex);
                     EvaluateDistance(distance1);
-                    Thread.Sleep(600);
+                    Thread.Sleep(650);
                     ++_counter;
                 }
             });
