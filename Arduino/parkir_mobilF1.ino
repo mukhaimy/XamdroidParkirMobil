@@ -187,7 +187,7 @@ void setup()
 {
   pinMode(LED_BUILTIN, OUTPUT);
   pinMode(pnLedB, OUTPUT);
-  pinMode(pnLedB, OUTPUT);
+  pinMode(pnLedR, OUTPUT);
   pinMode(pnBuzz, OUTPUT);  
   pinMode(pnBtn1, INPUT_PULLUP);  
   pinMode(pnJrTrig, OUTPUT); 
